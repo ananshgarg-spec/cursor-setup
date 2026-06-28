@@ -5,7 +5,7 @@
 - Cursor IDE
 - Claude Code Extension
 - Codex Extension
-- GitHub
+- Git
 
 ## Steps Completed
 
@@ -32,26 +32,16 @@ Logged into my Anthropic account and reloaded Cursor.
 
 ### Issue 2
 
-GitHub was not configured initially.
+Installed Git, but was not able to verify the version on the cursor when trying to open it via command
 
 **Solution**
 
-Configured Git using:
-
-```bash
-git config --global user. name "Your Name"
-git config --global user.email "you@example.com"
-```
+Installed Git in the correct local disk on PC and then created the project in that disk and folder where the cursor and git was installed.
 
 ### Issue 3
 
-Repository push failed because authentication was required.
+The cursor was not installed correctly, due to which I cannot install the extensions
 
 **Solution**
 
-Authenticated with GitHub using a Personal Access Token (PAT) or GitHub Desktop and pushed successfully.
-
-## Repository
-
-GitHub:
-https://github.com/yourusername/cursor-setup
+Installed the correct version of the cursor AI, created a new project, and then installed the extensions
