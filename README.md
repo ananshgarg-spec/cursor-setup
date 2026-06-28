@@ -9,7 +9,7 @@
 
 ## Steps Completed
 
-1. Installed Cursor IDE.
+1. Installed Cursor
 2. Installed Claude Code extension.
 3. Logged into Claude Code.
 4. Installed Codex extension.
