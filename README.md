@@ -45,3 +45,16 @@ The cursor was not installed correctly, due to which I cannot install the extens
 **Solution**
 
 Installed the correct version of the cursor AI, created a new project, and then installed the extensions
+
+
+### Issue 4
+
+Git was not configured initially.
+
+**Solution**
+
+Configured Git using:
+
+```bash
+git config --global user.name "Your Name"
+git config --global user.email "you@example.com"
