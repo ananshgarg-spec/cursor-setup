@@ -1,8 +1,8 @@
-url: [https://www.youtube.com/watch?v=f03ZfdtkMzk](https://www.youtube.com/watch?v=f03ZfdtkMzk)
+URL: [https://www.youtube.com/watch?v=f03ZfdtkMzk](https://www.youtube.com/watch?v=f03ZfdtkMzk)
 
-title: Is Reddit REALLY The KEY to AI Search? Let’s Find Out…
+Title: Is Reddit REALLY The KEY to AI Search? Let’s Find Out…
 
-published: April 20, 2026
+Published: 2026-04-20
 
 # Transcript
 
