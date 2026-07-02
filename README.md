@@ -13,6 +13,8 @@ The goal of this research was to:
 - Gather recent LinkedIn posts to understand current industry trends.
 - Organize all research into a structured GitHub repository for future reference.
 
+
+
 ## Experts Selected
 
 The following experts were chosen because they actively practice and share real-world SEO strategies rather than only discussing theory.
@@ -43,6 +45,8 @@ The following research materials were gathered:
 - Summaries and key takeaways from the collected content.
 - SEO topics, AI workflows, and content production strategies are discussed by each expert.
 - Source links and research dates for future reference.
+
+
 
 ## Repository Structure
 
@@ -81,11 +85,15 @@ Collectively, their content provides a balanced perspective on how AI is transfo
 - GitHub
 - Supadata YouTube Transcript API
 
+
+
 ## Outcome
 
 This repository serves as a structured knowledge base of current AI-powered SEO practices collected from leading industry experts. The research demonstrates the use of AI tools for content collection, organization, and documentation while following a reproducible workflow using Git and GitHub.
 
 # Cursor IDE Setup Assignment
+
+
 
 ## Tools Installed
 
@@ -93,6 +101,8 @@ This repository serves as a structured knowledge base of current AI-powered SEO 
 - Claude Code Extension
 - Codex Extension
 - Git
+
+
 
 ## Steps Completed
 
@@ -107,7 +117,11 @@ This repository serves as a structured knowledge base of current AI-powered SEO 
 9. Committed the changes.
 10. Pushed the repository to GitHub.
 
+
+
 ## Issues Faced
+
+
 
 ### Issue 1
 
